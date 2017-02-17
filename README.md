@@ -1,6 +1,8 @@
 # doc-git
 
-##### the basic document of git 
+##### the basic document of git
+
+![](./screenshot/banner.jpg)
 
 - [C01 git 的历史](./doc/c01.md)
 - [C02 git特点](./doc/c02.md)
